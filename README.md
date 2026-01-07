@@ -24,6 +24,18 @@ Closed-form, non-iterative calculations with no convergence or numerical tuning
 
 Straightforward integration as a lightweight pre-screening step in existing workflows
 
+# Additionally, APEPM enables:
+
+Geometry-based validation of declared or hypothesized bonds in modified, generated, or user-defined structures
+
+Continuous feasibility feedback under bond stretching, compression, or angular distortion (e.g., during optimization, sampling, or manual editing)
+
+Use as an interpretable geometric constraint layer independent of force fields or energetic models
+
+Real-time applicability in interactive modeling or visualization environments due to its analytic, parameter-free formulation
+
+A clear separation between geometric admissibility and energetic favorability, reducing ambiguity in downstream analysis
+
 # Typical Use
 Candidate structure
 
